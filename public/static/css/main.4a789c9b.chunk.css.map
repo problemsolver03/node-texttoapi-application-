@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA,KACI,gCACJ,CAEA,wBACI,wBAAyB,CACzB,iBACJ","file":"main.4a789c9b.chunk.css","sourcesContent":["body{\r\n    font-family: 'PT Sans', sans-serif;\r\n}\r\n\r\n.customSizing .col-md-8{\r\n    background-color: #fcfcfc;\r\n    padding: 30px 40px;\r\n}"]}
